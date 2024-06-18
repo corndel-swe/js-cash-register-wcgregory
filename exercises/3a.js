@@ -1,9 +1,9 @@
 /**
- * Given a recipeBook containing recipes, returns the title of the last recipe
+ * Given a recipeBook containing recipes, return the title of the last recipe
  * in the array
  */
 function lastRecipe(recipeBook) {
-  // code here
+  return recipeBook.recipes[recipeBook.recipes.length - 1]?.name
 }
 
 // we've provided a sample object for debugging:
