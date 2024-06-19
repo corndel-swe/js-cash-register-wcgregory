@@ -33,7 +33,7 @@
 
 ### Level 5
 
-- [ ] Complete the `transaction` function which works out the change required
+- [x] Complete the `transaction` function which works out the change required
       from a transaction and removes it from the drawer if possible.
 
 ## Extension
