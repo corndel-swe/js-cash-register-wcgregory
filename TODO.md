@@ -28,7 +28,7 @@
 
 ### Level 4
 
-- [ ] Complete the `canMakeAmount` function which determines whether it is
+- [x] Complete the `canMakeAmount` function which determines whether it is
       possible to create a specific cash amount from the items in the drawer.
 
 ### Level 5
