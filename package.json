@@ -16,7 +16,8 @@
     "test:level-2": "mocha ./test/level-2.test.js",
     "test:level-3": "mocha ./test/level-3.test.js",
     "test:level-4": "mocha ./test/level-4.test.js",
-    "test:level-5": "mocha ./test/level-5.test.js"
+    "test:level-5": "mocha ./test/level-5.test.js",
+    "test:level-5ext1": "mocha ./test/level-5ext1.test.js"
   },
   "keywords": [],
   "author": "",

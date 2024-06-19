@@ -42,3 +42,10 @@ What other functions could you add to the cash register? What about calculating
 tax, discounts, gift cards? Maybe protect the cash register with a password?
 Have some fun thinking up different functionality you could add and get
 creative.
+
+### Level 5 - Extension 1
+
+- [x] Added new function `discountedAmount` which works out the change required
+      from a transaction, after a discount is applied, Returns the change if possible.
+
+- [x] Added new test module `level-5ext1.test.js` with assert values for validation
