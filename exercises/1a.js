@@ -4,7 +4,9 @@
  * "Vegetable Stir Fry has 4 ingredients and serves 2 people"
  */
 function recipeSummary(recipe) {
-  // code here
+  const { name, ingredients, servings } = recipe
+  return `${name} has ${ingredients.length} ingredients and serves ${servings} people`
+   // return `${recipe.name} has ${recipe.ingredients.length} ingredients and serves ${recipe.servings} people`
 }
 
 // We have provided two recipes for debugging:

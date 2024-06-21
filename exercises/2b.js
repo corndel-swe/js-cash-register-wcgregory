@@ -3,7 +3,8 @@
  * the name of each recipe
  */
 function listNames(recipes) {
-  // code here
+  // See 2a for the 'for' loop construct
+  return recipes.map(recipe => recipe.name)
 }
 
 // array provided for debugging:
